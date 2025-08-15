@@ -359,3 +359,7 @@ figure {
   padding-right: 20px;
   display: block;
 }
+
+figure img {
+  height: 80%;
+}
