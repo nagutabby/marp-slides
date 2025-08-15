@@ -354,12 +354,7 @@ footer {
 }
 
 figure {
-  max-width: 45%;
   float: left;
-  padding-right: 20px;
+  padding-right: 30px;
   display: block;
-}
-
-figure img {
-  max-height: 60vh;
 }
