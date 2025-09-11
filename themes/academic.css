@@ -13,7 +13,7 @@
 section {
   background-image: none;
   font-family: 'Noto Sans JP', sans-serif;
-  padding-top: 90px;
+  padding-top: 40px;
   padding-left: 40px;
   padding-right: 40px;
 }
@@ -64,13 +64,6 @@ section.lead h5 strong {
 }
 section.lead p {
   text-align: right;
-}
-
-header {
-  background-color: #2C3E50;
-  color: #fff;
-  font-size: 1em;
-  font-weight: 700;
 }
 
 blockquote {
